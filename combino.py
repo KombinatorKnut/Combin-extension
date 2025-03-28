@@ -16,3 +16,5 @@ def combino(n, r, nizk):
         RBK += f - f1
 
     return RBK
+rezultat = combino(10, 4, "2 4 6 7")
+print(rezultat)
