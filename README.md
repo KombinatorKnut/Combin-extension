@@ -8,7 +8,7 @@ The Art of Computer Programming
 Knjiga – Donald Knuth
 Nisam proćitao njegove knjige ali sam hobistićki ušao u njegovo podrućje
 Neka razmatranja ukazuju da se njegov rad može nadopunit i bolje sistematizirati
-iako bi neki matematičari zakolutli oćima da je takav rad beskoristan, ja smatram da je poznavanje kombinatorike
+iako bi neki matematičari zakolutali oćima da je takav rad beskoristan, ja smatram da je poznavanje kombinatorike
 u cijelom njenom opsegu bitno za buduće generacije iz više razloga a jedan od razloga je i utakmica sa sintetičkom inteligencijom
 kako je inteligencija našla dom i ulogorila se u našem fluidnom umu tako če jednog dana ovladati sintetičkim prekidačima, a jedino poznavanje 
 kombinatorike može vratiti smisao i svrhu fluidnom umu.
